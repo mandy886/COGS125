@@ -1,10 +1,11 @@
 import React from 'react';
+import './App.css'; // Assuming you have a CSS file for styling
 
 function App() {
   return (
     <div>
       <header>
-        <h1>Landy Mai</h1>
+        <h1>Mandy Lai</h1>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
@@ -20,7 +21,7 @@ function App() {
       <section id="projects">
         <h2>Projects</h2>
         <div className="portfolio-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSih7YjzeXOaStdQSdZ378FBSQmJW5F936Wojf_JBsJpw&s" alt="Project 1" />
+          <img className="spin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSih7YjzeXOaStdQSdZ378FBSQmJW5F936Wojf_JBsJpw&s" alt="Project 1" />
           <p>Triton Software Engineering</p>
         </div>
         <div className="portfolio-item">
@@ -30,7 +31,6 @@ function App() {
       </section>
       <section id="contact">
         <h2>Say hi</h2>
-        <p>Test</p>
         <p>Email: mslai@ucsd.edu</p>
         <p>Phone: 123-456-7890</p>
       </section>
