@@ -36,6 +36,7 @@ function App() {
           color="#841584"
           accessibilityLabel="Learn more about this purple button"
         />
+        <p>Test</p>
         <p>Email: mslai@ucsd.edu</p>
         <p>Phone: 123-456-7890</p>
       </section>
