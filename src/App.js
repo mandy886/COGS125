@@ -30,12 +30,6 @@ function App() {
       </section>
       <section id="contact">
         <h2>Say hi</h2>
-        <Button
-          onPress={onPressLearnMore}
-          title="Learn More"
-          color="#841584"
-          accessibilityLabel="Learn more about this purple button"
-        />
         <p>Test</p>
         <p>Email: mslai@ucsd.edu</p>
         <p>Phone: 123-456-7890</p>
