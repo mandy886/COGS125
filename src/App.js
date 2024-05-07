@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Mandy Lai</h1>
+        <h1>Landy Mai</h1>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
